@@ -5,9 +5,6 @@
 
 **I am Yash Kumar. I am currently pursuing my degree in Bachelor of Technology focused in Computer Science and engineering from National Institute of Technology, Patna. ⚡** 
 
-<code>
- <hr>
-</code>
 
 - 🔭 I’m currently working on Myself 🙍🏻‍♂️
  
@@ -26,9 +23,6 @@
 - ⚡ Fun fact: I am very Serious 😠!
 
 
-<code>
- <hr>
-</code>
 
  <code>
   <h3>👨🏻‍💻 Languages and Tools</h3>
@@ -41,9 +35,6 @@
 </code>
 
  
-<code>
- <hr>
-</code>
 
 ![MY GITHUB STATS](https://github-readme-stats.vercel.app/api?username=Yash-Kr&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Kr&hide=TeX&layout=compact)
