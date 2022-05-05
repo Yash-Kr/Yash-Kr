@@ -31,6 +31,8 @@
 - 💬 Ask me for tips about Competitive Programming 🔥
  
 - 📫 How to reach me: https://github.com/Yash-Kr/
+
+- ⚡ My resume : https://drive.google.com/file/d/1KbavyRL6VS6Nk8cHVpEHBcE6-asMGLDx/view?usp=drivesdk
  
 - 😄 Pronouns: He/Him
  
