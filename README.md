@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Yash-Kr&color=brightgreen)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Yash-Kr/Yash-Kr)
 
-**I am Yash Kumar. I am currently pursuing my degree in Bachelor of Technology focused in Computer Science and engineering from National Institute of Technology, Patna. ⚡** 
+**I am Yash Kumar. I am currently working as a Software Developer @Phonepe ⚡** 
 
 <hr>
 
